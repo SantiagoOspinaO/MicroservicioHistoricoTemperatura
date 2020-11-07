@@ -1,6 +1,5 @@
 package co.com.swiii.registrotemperatura.historicotemperatura.service.implement;
 
-
 import co.com.swiii.registrotemperatura.historicotemperatura.converter.HistoricoTemperaturaConverter;
 import co.com.swiii.registrotemperatura.historicotemperatura.model.HistoricoTemperatura;
 import co.com.swiii.registrotemperatura.historicotemperatura.repository.HistoricoTemperaturaRepository;
